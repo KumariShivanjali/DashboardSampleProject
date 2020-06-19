@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="20dp"
+    android:background="@color/colorPrimary"
+    >
+     
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/cycle"
+        android:contentDescription="@string/cycling"
+        />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/traveling"
+        android:textSize="24sp"
+        android:padding="4dp"
+        android:fontFamily="@font/baloo"
+        android:includeFontPadding="false"
+        android:textColor="@color/colorBlack"
+        tools:targetApi="jelly_bean"/>
+
+</LinearLayout>

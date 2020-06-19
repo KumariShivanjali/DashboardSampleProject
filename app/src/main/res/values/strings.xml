@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="traveling">Traveling</string>
+    <string name="start_a_new_journey">Start a New Journey</string>
+    <string name="walking">Walking</string>
+    <string name="boating">Boating</string>
+    <string name="bus">Bus</string>
+    <string name="train">Train</string>
+    <string name="cycling">Cycling</string>
+    <string name="aeroplane">Aeroplane</string>
+
+    <!-- Main Menu-->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+
+    <!--Nav Drawer-->
+    <string name="nav_drawer_open">Open Nav Drawer</string>
+    <string name="nav_drawer_close">Close Nav Drawer</string>
+    <string name="a">A</string>
+    <string name="android_developer">Android Developer</string>
+
+</resources>
